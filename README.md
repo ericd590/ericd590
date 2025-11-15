@@ -3,9 +3,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @ericd590
-- 🔭 I’m currently working on [OreField](https://discord.com/orefield)
 - 📫 How to reach me: @average590 (discord)
-- ⚡ Fun fact: I love Minecraft
 
 --- 
 
